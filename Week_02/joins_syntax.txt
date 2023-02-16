@@ -1,0 +1,55 @@
+-- Question 3
+
+-- INNER JOIN
+
+SELECT * 
+FROM table_a
+INNER JOIN table_b -- can use join instead
+ON table_a.id = table_b.id;
+
+-- LEFT OUTER JOIN
+
+SELECT *
+FROM table_a
+LEFT OUTER JOIN table_b -- can use left join instead
+on table_a.id = table_b.id;
+
+-- RIGHT OUTER JOIN
+
+SELECT *
+FROM table_a
+RIGHT OUTER JOIN table_b -- can use right join instead
+on table_a.id = table_b.id;
+
+-- FULL OUTER JOIN
+
+SELECT *
+FROM table_a
+FULL OUTER JOIN table_b -- -- can use full join instead
+on table_a.id = table_b.id;
+
+-- NATURAL JOIN
+
+SELECT *
+FROM table_a
+NATURAL JOIN table_b;
+
+-- CROSS JOIN
+
+SELECT *
+FROM table_a
+CROSS JOIN table_b;
+
+-- SELF JOIN
+
+SELECT *
+FROM table_a as x
+JOIN table_a as y
+ON x.id = y.id;
+
+-- OR
+
+SELECT *
+FROM table_a as x
+JOIN table_a as y
+USING(id); -- using gets rid of the extra(repeated) column
