@@ -1,7 +1,7 @@
 # SQL_Class_Work
 Code from my PostgreSQL class at USC :)
 
-Pgadmin 
+## Pgadmin Basics
 
 F5 to run in pgadmin
 
@@ -37,3 +37,9 @@ Example: Where channel in (‘twitter’, ‘adwords’) – faster than col = �
 Using occurred_at <= '2016-12-31' assumes that you are checking till 31st Dec 00:00 (or 30th dec night, the time turns 12am), so use < '2017-01-01' to include all orders of 2017
 7.	Use parenthesis correctly while using AND/ OR/ etc. operators. 
 
+
+
+## Weekly breakdown
+
+Week 01 - Querying
+Week 02 - Joins and Aggregation
