@@ -1,4 +1,4 @@
-# SQL_Class_Work
+# SQL Class Work
 Code from my PostgreSQL class at USC :)
 
 ## Pgadmin Basics
