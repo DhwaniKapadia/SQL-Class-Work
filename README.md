@@ -7,8 +7,11 @@ Code from my PostgreSQL class at USC :)
 ## Weekly Breakdown
 
 Week 01 - Querying
+
 Week 02 - Joins and Aggregation
+
 Week 03 - Group by and Having
+
 Week 04 - Subqueries and CTEs
 
 
