@@ -44,3 +44,4 @@ Using occurred_at <= '2016-12-31' assumes that you are checking till 31st Dec 00
 Week 01 - Querying
 Week 02 - Joins and Aggregation
 Week 03 - Group by and Having
+Week 04 - Subqueries and CTEs
