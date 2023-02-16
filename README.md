@@ -1,7 +1,16 @@
 # SQL Class Work
 Code from my PostgreSQL class at USC :)
 
-## Pgadmin Basics
+
+## Weekly Breakdown
+
+Week 01 - Querying
+Week 02 - Joins and Aggregation
+Week 03 - Group by and Having
+Week 04 - Subqueries and CTEs
+
+
+## PgAdmin Basics
 
 F5 to run in pgadmin
 
@@ -38,10 +47,3 @@ Using occurred_at <= '2016-12-31' assumes that you are checking till 31st Dec 00
 7.	Use parenthesis correctly while using AND/ OR/ etc. operators. 
 
 
-
-## Weekly breakdown
-
-Week 01 - Querying
-Week 02 - Joins and Aggregation
-Week 03 - Group by and Having
-Week 04 - Subqueries and CTEs
