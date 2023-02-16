@@ -16,6 +16,7 @@ Week 04 - Subqueries and CTEs
 
 Week 05 - Window Functions
 
+Test - Covers everything
 
 ## PgAdmin Basics
 
